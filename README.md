@@ -1,9 +1,9 @@
 # Game-MistyDomain
-Development team:Alpha      
-Development Engine:AlphaEngine
-	Developer: 
-    Chief Designer：Yilin Zhang 
-    Technological Guidance：Changgen Su 
-    Producer：Yi Li 
-    Product Manager：Jin Guo 
+Development team:Alpha<br/>  
+Development Engine:AlphaEngine<br/>  
+Developer: <br/>  
+    Chief Designer：Yilin Zhang <br/>  
+    Technological Guidance：Changgen Su <br/>  
+    Producer：Yi Li <br/>  
+    Product Manager：Jin Guo <br/>  
     
