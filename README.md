@@ -1,5 +1,6 @@
 # Game-MistyDomain
-Development team:Alpha      Development Engine:AlphaEngine
+Development team:Alpha      
+Development Engine:AlphaEngine
 Developer: 
 
 
